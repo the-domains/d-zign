@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: vo.i.z
-dateModified: '2017-07-17T13:48:19.219Z'
-datePublished: '2017-07-17T13:48:20.266Z'
+description: vo.i
+dateModified: '2017-07-17T14:03:23.115Z'
+datePublished: '2017-07-17T14:03:23.664Z'
 title: we promise to write back.. (if you were funny.. or interestin’..)
 author: []
 publisher: {}
@@ -17,6 +17,6 @@ _type: MediaObject
 ---
 # we promise to write back.. (if you were funny.. or interestin'..)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytUstu2zAQvPcrFuzBbQFLdpAirSIRCPq4pRd_gLESaYmORKrkyor_vkvLyqNoghyqAyUud2aWmslD5U1P0KKtB6x1IfZ4wKko5AE9BNzqDk27NQoKWHz5fHlxtazWuFotrs_nQVvakr6n2EAN2ruQJDCatoVSgzd1Q1BidQfk4OiGJFlc5-mkId_lr00AwVeFaIj6LE3DOgkdekKlnE0q16Ws3VDX7pzvkn0Q8gmrMgcwqhDcUjlLWBFXBB_EZrDY6eIJGgIdW5Zm-trYbNXfC3A2DGVnqBBe0-AtPFJFyIePkY2wbHV8e5mTkr-YN4M89Ghnysq1zmfvv1-t-BHyE8_IpzIvGWFsPxDQsee--P_ENJiIqwCvfw_Ga74E-YH3Kd-PNXjxj4o_ltEcuFHK6xD-g_bJ7DeKb4ZyryvKXiUMU9MLFLc8Nbs-UUQYeo1nZDedCeB7hEJcXvBYbuSvr9HquflfrM-GmWwUcMB24O1GWwW3M_X5T-3Y2OWoY1Sz0rVKPGNNZ5vT6Lw8hesM7DmNxtZLcn22jrmROULj9e4htuM4_p3bc4y2p-DGDAr5bSrBTy7lKUrovTsYpRWUR9hE-M0Mz1PWl9P6BwlZR1Q" height="500" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzNVH9v2zYQ_Tv6FISCoV0R_XLi1pHtbMWw_NUNA_IJKOlksaFIjqTieEG_-46UZUtONgxDWlSAYPNEvnvv8e5Wxu443AQ_s1ZJbUmn-dvGWmXyJKmlsCbeSLnhQBUzcSnbpDTmp5q2jO_Wn6iV-WWaXlzh-yFNf1wGQVDIakeegrOClvcbLTtR5eS8nl1n6YdlcFZKLrUL1DWuXIJoC2zT2JwgyBAy7C_ISQbtEOgT5uSNS_nmgnzUjPILYqgwkQHNHFhL9YaJ3IEoWlVMbMb_o0JaK9v8faoel8GXIC7LBmgF2nHdHyUpoZ2VIwAy8xwsPNqIcrbBPSUIC9pBjDCabAJzKu3yVNosnntgzgREzX5XFl9-38yC5B25lbolv9zdvUtcktqtngJCyClRDJEtq2yTk0V69LxmwKtIaVAgqgOx4XIyv_GsP5el6Q-DGJcnQuVSPA01dF4vKFzNlwTpc0ltzqG2I4MWI6gFAo0L8vzWP1P_9vadjVJ6tuSYMvWPS_kiWCE1Wp4LKWBEJJvH8xGX6yy-dnQqZhSnu7zgsrz_hzrvy3xS5ceryq56V5-R_W9I_joK6ww9pTLVMZa69_xgyEH6QexMPZJZr7fstMFNSrK-LnuzKyilppZJMSQYF2QheXXkljfyAfR0mJxXi8U8xXN-l4aKWV-B02IjpMSZpRHPNstgGA2H2hxXd8-WHBsL12TuUEjwcnsNaaF92kNH2kPNhzrvv1MkNgw8VzfBpPV6qaeekN6UL6tkP5hXyPWeNBrqdTgMZgG2EjQupLTGaqrKSvjZ7PHpFoxsIbmK0_jSjetJOMZASDTwdegTmAbAhjc4uFcVe0DXqDHrcIugCjTGXR-vfJu3YBtZrUMljQ0JLR3ddRgOR_oiHE6MsE6afr_D7zKKiun5vsnDmxUb4jUlNY06rFr3O3vEbwnD150dQTGhOjvF8mlDYncK1qHzOSRY5iU0aDzodXjbcU5-py04P_7sGF7ann2C9L-SEBAPwKWC1xbza0sZ_5ZCWlkwDpFqsF5fW8wfDjR8puH1RTBRy9cmf9cVn6G03_IusPdbnE7_qsQxpRroi2IEdgGGehg3H-QWtyxOlP0GxtDNuF1WyQD7f0WeGIxDf7DWdEXL0MYHyjvwtrrl8zyJ04Fz0of-BimUbFc" height="700" style=""></iframe>
 
-vo.i.z
+vo.i
