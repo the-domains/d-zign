@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: vo.1
-dateModified: '2017-07-17T12:55:10.112Z'
-datePublished: '2017-07-17T12:55:10.840Z'
+description: vo.1.i
+dateModified: '2017-07-17T12:55:16.911Z'
+datePublished: '2017-07-17T12:55:17.498Z'
 title: we promise to write back.. (if you were funny.. or interestin’..)
 author: []
 publisher: {}
@@ -19,4 +19,4 @@ _type: MediaObject
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9kDFvwyAQhff8iitLJgd5SaMII7VKlcFVliqSV4yxjQOGArabf187Tt0ObW8APfTx7t2R0jgNjAdp2gQh0CLUpkiQNT4guoIV3IoolgsFI5yglmmB6Gk89wTf3ukXJVvbBZiAOwZOvHfSiYKS3AH-3VBoJhWiL9P1r-UMQrjab_Fng0L2wBXzPkFV5ARnNvCaIShYYJGXQVzENUHbV_GYycv5aapTtzsf9Tb96LPGHOOyPsTPZZoesl2MKMGj4w__OdicxXe5lgFBz1Q3yre7XOIQPK15UQ9R1PgommcknjtpA3jHk3UdgvV7jIdh2FTGVEpsuNF4iY-ZlZvGr8c08zf6CQPkiFw" height="500" style=""></iframe>
 
-vo.1
+vo.1.i
