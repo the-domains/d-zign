@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -49,3 +48,7 @@ title: '{d-zign}'
 description: d-zign'rs need luv too.. say hi!
 github: true
 url: 'http://contact.d-zign.us'
+purpose:
+  - type: external
+    url: 'http://d-zign.us'
+    label: back 2 the magic!
