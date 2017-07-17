@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: vo.1.z.i
-dateModified: '2017-07-17T12:40:18.128Z'
-datePublished: '2017-07-17T12:40:18.578Z'
+description: vo.1.z
+dateModified: '2017-07-17T12:42:10.919Z'
+datePublished: '2017-07-17T12:42:11.468Z'
 title: we promise to write back.. (if you were funny.. or interestin’..)
 author: []
 publisher: {}
@@ -17,6 +17,6 @@ _type: MediaObject
 ---
 # we promise to write back.. (if you were funny.. or interestin'..)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVT8tOwzAQvPMVK1_SHhrDhQPYQS2tCuLRQgEBN8fepCEPh3ijKKr4dwhpitjLzkozOzPC6SopCVylJdsSle6M86Zp_NjaOENf25xXqFVJequ4KhP_wzFQri00GIywCgTvXwRH0I34dwFEdaEpsQXYYlOHeUIjsikWY9gNDABjdZ1jQX6MtMiwg7P22oyYwdxOIlvlbOy7Xj0-H3Rfe8ODv-iYkBjpHXQeqF93yS4Y5EhbayRbrzZPbAgowproJ57OlHOSxZNDWwZGkZq4hDDFVrLT28i8tunztJslXi4fZ2oxf1-vwqv7u-P5ycPby4I-pzd7nVZZFiqdSm9o7gX9Frz3_ItQ8R4L3oUOvgGeYIAX" height="500" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVj0tPwzAQhO_5FStf2h4aw4UD2EUtLQXxaKGAKDfHdh4ksYO9URUh_juEpEXsaVba2W-GeemyCsE7yUmKWPlTSne7XZhYmxQ6lLakTktRoUwFFVUWvnsCwjdGgtKxdhNGuxeTANph_zaAuDYSM2vAmk0dlRkO0ebajOBzfwGgrKxLbTBMNC4K3cpZc62GROnSjmPrSjIKfecene19Xz3wwGftJWSKDw6-AYhfOifnBEqNqVWcrFebJ7IPyKIa0ZpAFsJ7TpLxoS0JlEAx9hnqXDecnNzG6rXJn6ftLPXF8nEmFvO39Sq6ur87mh8_bF8W-DG96X1SFEUkZM7J1tZu1be_ND_kTgaMduy_KI52mtE2_OQbk5eCIg" height="500" style=""></iframe>
 
-vo.1.z.i
+vo.1.z
