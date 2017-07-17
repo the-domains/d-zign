@@ -1,3 +1,16 @@
+layout_spectrum: 0.1656431251739401
+typography_spectrum: 0.1666997491233604
+color:
+  brandStrength: 0.6252508420937943
+  lightness: 0.1387296547884546
+  saturation: 0.7209863524799152
+  rhythmicContrast: 0.9782646673522188
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: '{d-zign}'
-layout_spectrum: 0.7727628073189408
-typography_spectrum: 0.9364713777322322
-color:
-  brandStrength: 0.6296999594196677
-  lightness: 0.7433596584014595
-  saturation: 0.7226842420641333
-  rhythmicContrast: 0.9718116070143878
-  brandColors:
-    - '#F4F2ED'
-    - '#FBF9F1'
-    - '#FDFDF9'
-    - '#F0ECE8'
-    - '#FFFFFF'
 content: []
 title: '{d-zign}'
 description: d-zign'rs need luv too.. say hi!
