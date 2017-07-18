@@ -52,3 +52,6 @@ purpose:
   - type: external
     url: 'https://d-zign.us'
     label: back to the magic!
+  - type: external
+    url: 'https://think.d-zign.us'
+    label: think!
