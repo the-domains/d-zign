@@ -50,5 +50,5 @@ github: true
 url: 'http://contact.d-zign.us'
 purpose:
   - type: external
-    url: 'http://d-zign.us'
-    label: back 2 the magic!
+    url: 'https://d-zign.us'
+    label: back to the magic!
