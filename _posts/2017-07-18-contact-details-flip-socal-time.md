@@ -1,20 +1,20 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-18T11:23:27.668Z'
-datePublished: '2017-07-18T11:23:28.174Z'
+dateModified: '2017-07-18T11:25:46.569Z'
+datePublished: '2017-07-18T11:25:47.028Z'
 title: ..contact details.. flip.. socal time..
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-07-18-contact-details-flip-socal-time.md
 starred: false
 datePublishedOriginal: '2017-07-18T11:23:28.174Z'
-sourcePath: _posts/2017-07-18-contact-details-flip-socal-time.md
 url: contact-details-flip-socal-time/index.html
 _type: Article
 
 ---
 # ..contact details.. flip.. socal time..
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytT7sOwjAQ2_mK6CRGeq1ADKgpYmVAgPiBkKYipSFV7iiPr6clYmBhYjtbts_OSQfbsuBHaySwuTPWqlORBUFBSzgxt7RArHxwjWFKtHdIrNhqrAltFZQze0P2aULi7CWpCYocY0YxyqNA2FLCJ2ISuV8PBkDoz-tD10yzjZvt1Hy1xWV0Sg7X3v6-jz6UJkhIQdxsyScJWZqOhwpR21f418rvaS-f93CL" height="400" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydVk1z2zYQPVu_AkOPa3vGpCgqihPKUpMeckpPPfWUAYEViZoEWACSbHX637sASUlkJLmJNZYILPbj7b5d4snY1xKWo2hVijpkSloqJGjyz4iQcAvZs7BhDdrUwKzYQEomcRzPnbBSuzMSdXr_xOboKlOag05JXL8Qo0rByTVjbD76F2WDmNJCbTAyv4u2HghBo4MzUf8Mwri66mBYTaVZKV2lRCtLLfx5N_kQc8jv5-6Uw3PpCCEe2mUrF6WIaRDuA0aqcYG_GWXPLtyt4LZIyTTGjKBOASIvLK5nft2ZaLH1oAkrlMRMRu_NfPQ96tBXOiW1BgN6A-GUuwIccA_0e_k4qewL0KVkoK3edHxC6y2VWnUKGkrqiNRmZJDDDrtbryiDcCOMyEQp7GtKCsE5yA7hxSMe3WUjF6XHEdMM6b224GCqGiHjQwkr6598JglpmiHUlIu1SUkycyV3Av9VU86FzH2vzJutPlncTp8vZHTIj0uMizbXai15Sta6vCusrU06Hm-32yjLBM0ipqqxUUzQshoLyoFlLKplfk9i_EgVaqiBWox9FwrJ4QWjbGowzP3FTvgfzfZWq10S9oFec_xjsyOqkEjSCly0K1yFRuzcRIpmUKFhLkxdUqyikCX2aJiVij3P-yZ1ntG75MMDmb7D_8cHJPBHFxRTpdJHHhv7K1qJEg2GtK5LCM2rsVA9kN_Q_PPvlP3h11_wJCrsi4y1xyHpZ8CAFrN201pVpd2ZhkqP8c38HOngBZEWlKut67cJVPvvGIGT6-l06ufBufrdhZert5efrt1B_byo41FYqly58pxvnyQ-xv2xWbTtMEn6s7Nb_xj7_9Z8J3K5SU7yfx-qFbY8UGnbusxUyY_4MGFJkszOlsYBmh3jccNBN5birna0xGhSwkBa0D9DrSOuJ47p-66tz6Z6T7LHH43uMKxI0g6nXsBUY5Ldru-xrlJdXDR1APwlhJBhEt2e94nTSWnaBC2VhFbVTWIL_Ce1mwtEX_f9ZPIueXxbl_rLzU85jpgbM1711FvOvRt8Kdp7gC_Efuyjgadxe5F7yjQZ4w8XG8JKaswi6N85AoJPas0KY6m2i8AWwkT-5FdhbGRVnpdwd-vzcHs_D5boYGgNrx9-fyBxs7XdR4mpqexEbt4GS_9CwUhR0GqPUf17Q46VBzsDQdNxwfKJkkLDahEct7HdCosE9I3svQUEUeaAOL9lJZVo9lMbBV0eeUc39fKvtbGkAmOEvEWCukGBuSK2AJJrwaOoyS3lyF35aT8xnsb12VjdIAuOHe0f24fu50jRM6FJu1hp96IymvVh7kBYLI9hhYBsLfNIgh17vRBnIMING81wk_yKqPM1zWEB8hcrKtgh5RafK9CC0Zvky1dlvn2WOZRgguY-sQhm8U3Q3iQWwWQWB8Rba95DiwDXBmiFGgahNZ4OkP4DndXqbw" height="400" style=""></iframe>
