@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: v1
-dateModified: '2017-07-24T08:55:59.205Z'
-datePublished: '2017-07-24T08:55:59.750Z'
+description: ''
+dateModified: '2017-07-24T08:57:28.752Z'
+datePublished: '2017-07-24T08:57:29.334Z'
 title: ..contact details.. flip.. socal time..
 author: []
 publisher: {}
@@ -18,5 +18,3 @@ _type: Article
 # ..contact details.. flip.. socal time..
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydVlFz2zYMfo5_BU-5LMldJMty3bSynbV76FP3tKc99SgKlrlQpEbSduLd_vtASrIl1XbWxhdbBAgQH_AB4sLYVwFPo2gleBUyJS3lEjT5Z0RIuIPsmduwAm0qYJZvISWTOI7nTlmq_RmNOi0_IRxdZUrnoFMSVy_EKMFzcs0Ym4_-Rd0gpnStthiZl6KvB0LQ6WBP1N-DMK6uWhhWU2lWSpcp0cpSC3_eTT7EORT3c7fL4bm0hRAP7bKXi1rENAj3ASPVuMDfjLJnF-6O53adkmmMGUGbNfBibXE98-vWRYOtB41briRmMnpv5qPvUYe-0impNBjQWwinuSvAEffAvpePk8a-AG1KBtbqzYNPWL1lUqnWQIOgjkhNRgY5bLG79YoyCLfc8IwLbl9TsuZ5DrJFeHGLR3fZyUVtN2KaIb03FhxMVSFkfBCwsv7JZ5KQuhlCTXO-MSlJZq7kTuG_KprnXBa-V-a1qE8WJ-nzhYyO-XGJcdEWWm1knpKNFndrayuTjse73S7KMk6ziKlybBTjVJRjTnNgGYsqWdyTGD9ShRoqoBZj34dc5vCCUdY1GOb-Yif8j2Z7q9UuKftAr3P8Y7MOVUgkaQku2hWuQsP3biJFMyjRcc5NJShWkUuBPRpmQrHned-lLjJ6l3x4INN3-P_4gAT-6IJiSijdObH2v6IlF-gwpFUlIDSvxkL5QH5D98-_U_aHX3_BnWhwKDLWHoeknwEDWswaobWqTNs9NZUe45v5OdLBCyJd01ztXL9NoDx8xwicXE-nUz8PztXvLrxcvYP-dO2O5udVLY9CoQrlynO-fZK4i_tjvWjaYZL0Z2e7_jH25-GeF_JvvZ2cbIBDrJZbceTSrjkzUyLvEGLCkiSZna2NQzTrAnLTQdee4rZ4VGA8KWEgLeif4VaH7Imj-qFtq7O5PrDs8UejO04rkjTTqRcw1ZhlJ_VN1paqjYumDoC_hRAyTKKT-TNxPClN66ClktCYulFsIf9J6_oG0bd9P5m8Sx7ftqX-dvNTB0fMzRlveuo1514OvhTNRcAX4jD3vQOz0Z7c6MNBWAm1C1_S9l10EGHuDdNKCHfsYtzc_xaZJuOnRc63hAlqzDJo3QWo7Ij7F5iA4JPasLWxVNtlYNfcRH7nV25sZFVRCLi79Tm9vZ-jL0KG3vAu4-UDjRvUjRw1pqKyVbnhHTz5txPGj4rGeozm3ztyDD_6GSjq7g2eFpSsNayWQXcm2B23SGY_FfxpAUGUBSDOb5mgEt1-aqKgT53T8Zjq6a-NsaQEY7i8RbL7wihJ7BpIoXkeRXXGaY59ID8dxs9iXJ2N1U3FoHvQ4bF5aH86hp5Vddr5Sru3ntGsD3MP3GJ5DFtzyDayiCTYsbcLcaAi3LC2DLfJr4i62NACliB_sbyEPdJ3-bkEzRm9Sb58VebbZ1mAABPUl5NlMItvguZasgwmszgg3lv9UlsGuDZAS7QwCK0-6Qip_v4PI84Hvg" height="530" style=""></iframe>
-
-v1
